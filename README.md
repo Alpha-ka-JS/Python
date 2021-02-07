@@ -39,9 +39,9 @@
 
 
 # <a name="project-result"></a>Project Results
-* [LeeJehwan](https://alpha-ka-js.github.io/Python/LeeJehwan/scrapper/clone-project)
-* [soleileun](https://alpha-ka-js.github.io/Python/ChoiEunjoung/scrapper/clone-project)
-* [sungwon2054](https://alpha-ka-js.github.io/Python/JeongSungWon/scrapper/clone-project)
-* [oosikk](https://alpha-ka-js.github.io/Python/ys/scrapper/clone-project)
-* [daehyun1023](https://alpha-ka-js.github.io/Python/AhnDaehyun/scrapper/clone-project)
+* [LeeJehwan](https://alpha-ka-js.github.io/Python/LeeJehwan/scraper/clone-project)
+* [soleileun](https://alpha-ka-js.github.io/Python/ChoiEunjoung/scraper/clone-project)
+* [sungwon2054](https://alpha-ka-js.github.io/Python/JeongSungWon/scraper/clone-project)
+* [oosikk](https://alpha-ka-js.github.io/Python/ys/scraper/clone-project)
+* [daehyun1023](https://alpha-ka-js.github.io/Python/AhnDaehyun/scraper/clone-project)
 
